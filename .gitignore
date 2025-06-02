@@ -1,0 +1,61 @@
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE config (PyCharm)
+.idea/
+
+# Environment variables
+.env
+*.env
+
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon files
+Icon?
+._*
+
+# macOS-specific folders
+.Spotlight-V100
+.Trashes
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+
+
+# Logs and runtime files
+*.log
+*.tmp
+*.bak
+
+# Reports (CSV, Excel, etc.)
+*.csv
+*.xlsx
+*.xls
+
+
+
+# Testing
+.pytest_cache/
+.coverage
+.cache/
+htmlcov/
+coverage.xml
+
+# Type checking
+.mypy_cache/
+
+# Build outputs
+build/
+dist/
+*.egg-info/
+
+# PIP dependency logs
+pip-log.txt
